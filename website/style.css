@@ -2,3 +2,7 @@ main {
     background-image: url(../assets/website\ bg.png);
     background-size: cover;
 }
+
+#hero {
+    object-fit: contain;
+}

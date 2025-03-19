@@ -27,3 +27,7 @@ main {
     padding: 1rem;
     box-shadow: 1rem 1rem;
 }
+
+#contact-me-img {
+    object-fit: contain;
+}

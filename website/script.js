@@ -1,5 +1,5 @@
 function onHover() {
-    $("#myImgID").attr('src', '../assets/silly alex contact.jpeg');
+    $("#myImgID").attr('src', '../assets/silly alex contact.jpg');
 }
 
 function offHover() {

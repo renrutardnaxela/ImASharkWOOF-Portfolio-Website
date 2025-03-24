@@ -19,6 +19,28 @@ main {
     box-shadow: 1rem 1rem;
 }
 
+#overview {
+    background-color: azure;
+    border: 1px solid;
+    padding: 1rem;
+    box-shadow: 1rem 1rem;
+}
+
+#devlog {
+    background-color: azure;
+    border: 1px solid;
+    padding: 1rem;
+    box-shadow: 1rem 1rem;
+}
+
+#project-image {
+    background-color: azure;
+    border: 1px solid;
+    padding: 1rem;
+    box-shadow: 1rem 1rem;
+}
+
+
 #cta h1 {
     background-color: rgb(204, 145, 243);
     border: 1px solid;
